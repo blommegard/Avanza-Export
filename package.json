@@ -1,7 +1,7 @@
 {
   "name": "avanza_export",
   "version": "1.0.0",
-  "description": "A lambda function to export data from Avanza to Goosle Spreadsheet.",
+  "description": "A lambda function to export the total own capital from Avanza to Google Spreadsheet.",
   "main": "index.js",
   "dependencies": {
     "avanza": "^0.2.0",
